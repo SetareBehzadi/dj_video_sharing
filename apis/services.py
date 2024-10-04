@@ -1,0 +1,4 @@
+
+
+class GetAllVideos():
+    queryset = Video

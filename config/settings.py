@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'apis.apps.ApisConfig',
+    'accounts.apps.AccountsConfig',
     'videos.apps.VideosConfig',
     'subscriptions.apps.SubscriptionsConfig',
     'playlist.apps.PlaylistConfig',
